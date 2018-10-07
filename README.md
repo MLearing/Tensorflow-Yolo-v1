@@ -2,6 +2,11 @@
 
 Tensorflow implementation of [YOLO](https://arxiv.org/pdf/1506.02640.pdf), including training and test phase.
 
+### Instruction
+
+本代码添加了中文注释，主要是yolo_net.py,config.py,pascal_voc.py
+参考文档链接：http://hometown.group/2018/10/04/yolo-v1-v3/
+
 ### Installation
 
 1. Clone yolo_tensorflow repository
